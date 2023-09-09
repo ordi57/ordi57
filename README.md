@@ -1,0 +1,4 @@
+- 👋 Salut je suis @ordi57
+- 👀 Je m'intéresse à la language HTML CSS JavaScript
+- 🌱J'apprends actuellement HTML CSS JavaScript
+- 📫 Comment me joindre avec les notifications du site
